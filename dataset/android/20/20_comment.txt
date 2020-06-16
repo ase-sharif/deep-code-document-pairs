@@ -1,0 +1,1 @@
+It is a definition for an interface which is a callback. It is going to be invoked when the focus state of a view has changed.

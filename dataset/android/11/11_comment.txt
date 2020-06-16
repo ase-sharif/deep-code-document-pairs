@@ -1,0 +1,1 @@
+Clear an input and output of a text view based on the status.

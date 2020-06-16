@@ -1,0 +1,1 @@
+When an activity receives a boot start's intent, it restarts all monitors and notifies them using an scheduler.

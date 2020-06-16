@@ -1,0 +1,1 @@
+If settings is clicked, go to settings. Otherwise, stay where you are.

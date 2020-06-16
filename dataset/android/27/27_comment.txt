@@ -1,0 +1,1 @@
+Save the state of the passed pin and the token id of the activity.

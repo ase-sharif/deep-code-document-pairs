@@ -1,0 +1,1 @@
+Called when the activity is first created. Set the preference screen.

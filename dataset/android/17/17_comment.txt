@@ -1,0 +1,1 @@
+Called when the activity is starting. Find the preferenc screen and set the change listener.

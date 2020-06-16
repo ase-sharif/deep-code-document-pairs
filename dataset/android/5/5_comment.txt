@@ -1,0 +1,1 @@
+Update the graphic state of the theme to "selected" or "not selected".

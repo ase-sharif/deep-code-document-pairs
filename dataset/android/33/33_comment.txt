@@ -1,0 +1,3 @@
+Get an array of integers and Sleep for the first parameters (in milliseconds).
+Try to change the text of clipboard service to an empty string.
+Return "success" if its work has been done otherwise return "false".

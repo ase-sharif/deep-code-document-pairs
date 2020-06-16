@@ -1,0 +1,1 @@
+Check shared preferences and enable/disable notification based on the "enabled" field.

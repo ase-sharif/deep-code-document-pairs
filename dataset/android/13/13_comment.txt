@@ -1,0 +1,1 @@
+Return how much time has passed since the starting time in milliseconds.

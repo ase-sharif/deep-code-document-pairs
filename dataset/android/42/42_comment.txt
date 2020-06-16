@@ -1,0 +1,1 @@
+Create "HotpToken" or "TotpToken" based on the position of the cursor.

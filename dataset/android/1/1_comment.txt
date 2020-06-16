@@ -1,0 +1,1 @@
+Called when the activity is created. Start the execution of a loading task.

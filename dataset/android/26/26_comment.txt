@@ -1,0 +1,1 @@
+If the view is clicked, the activity will be reset.

@@ -1,0 +1,1 @@
+Set the result to 1 (meaning success) and finish the timer.

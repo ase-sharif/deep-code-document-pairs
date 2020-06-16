@@ -1,0 +1,1 @@
+Start a new ShortcutActivity when the "new shortcut" view is pressed by a user.

@@ -1,0 +1,1 @@
+Show a dialog with an about message and OK button which doesn't do anything.

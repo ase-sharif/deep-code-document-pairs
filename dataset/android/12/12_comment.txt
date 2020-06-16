@@ -1,0 +1,1 @@
+Hash the input based on the type.

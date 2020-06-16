@@ -1,0 +1,1 @@
+If profile has a password has, return "masterPassword" and check whether it is equal to the saved password's hash. Otherwise return true.

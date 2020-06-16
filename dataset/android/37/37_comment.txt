@@ -1,0 +1,1 @@
+Called when a fragment is first attached to its activity.

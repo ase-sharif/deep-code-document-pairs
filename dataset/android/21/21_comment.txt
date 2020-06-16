@@ -1,0 +1,1 @@
+Called when you have launched an existing activity, giving you the "requestCode". Return the "resultCode" and additional data.

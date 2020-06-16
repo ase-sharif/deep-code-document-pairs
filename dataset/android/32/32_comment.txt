@@ -1,0 +1,1 @@
+Line at (x,y) can start if there is no need to shrink the text, no animation is running, and cursor is at (x,y).

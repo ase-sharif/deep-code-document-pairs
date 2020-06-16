@@ -1,0 +1,1 @@
+Called as the part of the activity lifecycle when the user no longer actively interacts with the activity, but it is still visible on the screen.

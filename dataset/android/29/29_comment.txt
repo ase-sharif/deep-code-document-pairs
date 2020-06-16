@@ -1,0 +1,1 @@
+If the phone icon is an instance of "BitmapDrawable", return its "Bitmap". Otherwise, return null.

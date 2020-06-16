@@ -1,0 +1,1 @@
+Called to retrieve a per-instance state from an activity before being killed so that the state can be restored. 

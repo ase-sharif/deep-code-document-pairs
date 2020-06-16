@@ -1,0 +1,1 @@
+Dismiss the dialog when it is clicked.
